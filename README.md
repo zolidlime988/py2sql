@@ -10,4 +10,4 @@ This PHP script will execute every period of time(I and my team have decided to 
 
 This PHP script will execute with the GetData.php. It will Get the data from SQL and send back to arduino.
 
-Noted that users can adjust the automation process via WebApp. You can view the detail at https://github.com/Jaytitaya?tab=repositories
+Noted that users can adjust the automation process via WebApp. You can view for more detail at https://github.com/Jaytitaya?tab=repositories
